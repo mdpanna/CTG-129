@@ -8,7 +8,7 @@ function Rectangle($length,$width){
 }
 function Circle($length){
     echo "<h4>Law of Circle</h4>";
-    echo "Circle is =".$length*$length;
+    echo "Circle is =".3.1416*($length*$length);
     
 }
 function Square($length){
